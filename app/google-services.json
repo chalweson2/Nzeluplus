@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "636325292273",
+    "project_id": "valeron-fc675",
+    "storage_bucket": "valeron-fc675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:9bca3073c7182587aaa150",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:2bd64499835cca3faaa150",
+        "android_client_info": {
+          "package_name": "com.nzelupluszm.nzelupluszm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:110e41c0cef8b366aaa150",
+        "android_client_info": {
+          "package_name": "com.terrastarshop.terrastarshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:6a31a6620a096c5baaa150",
+        "android_client_info": {
+          "package_name": "com.valeronandroid.valeronandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:d176b95827629ab1aaa150",
+        "android_client_info": {
+          "package_name": "com.valeronpro.valeronpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636325292273:android:4b11437126118e9daaa150",
+        "android_client_info": {
+          "package_name": "com.zambitu.zambitu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsNW4SQV3wkTix9ClDWevTb3QmPNXZlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636325292273-n2cmo9mcbpsb7h4edajbvjleomrfqlms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
